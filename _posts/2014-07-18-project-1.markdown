@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2024-12-25
-img: cabin.png
+img: grids.png
 alt: image-alt
 project-date: April 2014
 client: Summary
