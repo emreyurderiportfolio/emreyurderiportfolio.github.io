@@ -1,11 +1,32 @@
 ---
 layout: default
 modal-id: 1
-date: 2024-12-25
+date: 2024-12-29
 img: grids.png
 alt: image-alt
-project-date: April 2014
+project-date: Sept
 client: Summary
 category: Summary
-description: Proficient in end-to-end data analysis processes including data exploration, visualization, feature engineering, predictive model building and result interpretation, utilizing analysis tools such as Python, R, SQL, Excel and MicroStrategy. | Experienced in AI with a proven ability in machine learning and deep learning models to solve complex problems. |Competent in ETL processes, including creating complex SQL queries, managing workflow steps with Pentaho, and automating scheduling using Jenkins |Proactively engages in research, with a continuous drive to learn and adapt to new technologies and methods in the field. | Versed in driving business discussions to align on needs and translating complex technical information for all stakeholders | Achieved high honors in Artificial Intelligence at Centennial College; holds a MSc in data analytics and a BSc in statistics.
+description: >
+  <h4>Vehicle Positioning and Demand Prediction</h4>
+  <div class="modal-body" style="text-align: left;">
+  <h5>Objective</h5>
+  <p>Predicting spatio-temporal data using advanced deep learning models and creating an interactive visualization.</p>
+  <br>
+  <h5>Project Steps and Used Methods</h5>
+  <ul>
+    <li>Data analysis and visualization</li>
+    <li>Time-series analysis</li>
+    <li>Interactive map visualization</li>
+    <li>Geopandas dataframe transformation</li>
+    <li>K-means clustering</li>
+    <li>Predictive modeling with FCNN, attention-based custom deep learning model, and the Transformer model</li>
+    <li>Performance evaluation with precision, recall, and F1-scores</li>
+  </ul>
+  <br>
+  <h5>Used Libraries</h5>
+  <div class="highlight">
+    Pandas, Numpy, TensorFlow, Scikit-learn, Statsmodels, Cartopy, Folium, Matplotlib, Seaborn
+  </div>
+  </div>
 ---
