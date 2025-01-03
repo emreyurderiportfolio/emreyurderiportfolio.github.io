@@ -4,8 +4,29 @@ modal-id: 2
 date: 2014-07-17
 img: sentiment.png
 alt: image-alt
-project-date: April 2014
+github: <a href="https://github.com/emreyurderiportfolio/Portfolio/tree/main/Amazon_Reviews_Sentiment_Analysis" target="_blank">Link</a>
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+keywords: NLP, sentiment analysis, VADER, Textblob
+description: >
+  <h4>NLP Sentiment Analysis</h4>
+  <div class="modal-body" style="text-align: left;">
+  <h5>Objective</h5> 
+  <p>Evaluate and compare the performance of VADER and TextBlob for classifying sentiment (Positive, Neutral, Negative) in textual reviews.</p>
+  <br>
+  <h5>Project Steps and Used Methods</h5>
+  <ul>
+    <li>Exploratory data analysis and visualiztion</li>
+    <li>Developing an outlier detection method</li>
+    <li>Building preprocessing pipeline (tokenization, stopword cleaning, outlier removal)</li>
+    <li>VADER and Textblob model comparison</li>
+    <li>Sentiment classification</li>
+    <li>Performance evaluation and visualization (accuracy, precision, recall and F1-score)</li>
+  </ul>
+  <br>
+
+  <h5>Used Libraries</h5>
+  <div class="highlight">
+  Pandas, nltk, VaderSentiment, Textblob, Scikit-learn, Matplotlib, Seaborn
+  </div>
+  </div>
 ---

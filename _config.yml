@@ -4,7 +4,7 @@ email: emreyurderi@gmail.com
 url: https://github.com/emreyurderiportfolio/emreyurderiportfolio.github.io
 description: "Emre Yurderi Data Scientist Portfolio"
 keywords: "Data Analysis, Machine Learning Modelling, Deep Learning Modelling, Reinforcement Learning, Data Visualization, Data Manipulation"
-skills: "Data Analysis - ML & DL Modelling - Data Visualization"
+skills: "AI Engineering - ML & DL Modelling - Data Analysis & Visualization"
 meta_author: Yurderi Emre
 
 # Google webmaster tools
@@ -40,23 +40,23 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url:
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/emreyurderiportfolio/Portfolio/tree/main
+  - title: stack-overflow
+    url:
+  - title: bitbucket
+    url:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: North York, Toronto
+  - line: Ontario, CA
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

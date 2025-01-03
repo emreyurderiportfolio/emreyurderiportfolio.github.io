@@ -4,8 +4,28 @@ modal-id: 3
 date: 2014-07-16
 img: bike.png
 alt: image-alt
-project-date: April 2014
+github: <a href="https://github.com/emreyurderiportfolio/Portfolio/tree/main/Bike_Station_Availability_Visualization" target="_blank">Link</a>
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+keywords: Shiny App, interactive visualization, data transformation
+description: >
+  <h4>Interactive Bike Station Analyzer with Shiny App in R</h4>
+  <div class="modal-body" style="text-align: left;">
+  <h5>Objective</h5> 
+  <p>Create an interactive visualization tool for Isbike stations to display availability, station details, and their geographic distribution using Shiny App in R.</p>
+  <br>
+  <h5>Project Steps and Used Methods</h5>
+  <ul>
+    <li>Dataset preprocessing (data type transformation, data cleaning and clustering etc.)</li>
+    <li>Data visualization utilizing ggplot</li>
+    <li>Creating the UI design of the Shiny App</li>
+    <li>Designing the server function and implementing the corresponding interactive maps along with the table</li>
+    <li>Deploying the app to the <a href="https://eyurderi.shinyapps.io/bike_station_availability_visualization/" target="_blank">ShinyApps.io</a>.</li>
+  </ul>
+  <br>
+
+  <h5>Used Libraries</h5>
+  <div class="highlight">
+  Shiny, tidyverse,jsonlite, ggplot2, DT, leaflet, lubridate, RColorBrewer, scales, rsconnect
+  </div>
+  </div>
 ---

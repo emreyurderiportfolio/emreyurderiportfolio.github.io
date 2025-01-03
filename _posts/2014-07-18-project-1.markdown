@@ -4,9 +4,9 @@ modal-id: 1
 date: 2024-12-29
 img: grids.png
 alt: image-alt
-project-date: Sept
+github: <a href="https://github.com/emreyurderiportfolio/Portfolio/tree/main/vehicle_positioning" target="_blank">Link</a>
 client: Summary
-category: Summary
+keywords: Spatio-temporal prediction, interactive map visualization, deep learning modelling
 description: >
   <h4>Vehicle Positioning and Demand Prediction</h4>
   <div class="modal-body" style="text-align: left;">
